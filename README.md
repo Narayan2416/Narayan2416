@@ -1,6 +1,6 @@
 👋 Hi, I’m @Narayan2416
 👀 I’m interested in AI-driven solutions, machine learning, and a little bit of backend development,
-and look forward to imporve myself.
+and look forward to improve myself.
 
 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/narayanamoorthy-p-h-921181307/)
 
