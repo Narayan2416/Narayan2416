@@ -1,7 +1,7 @@
 👋 Hi, I’m @Narayan2416
 👀 I’m interested in AI-driven solutions, machine learning, and predictive analytics.
 🌱 I’m currently learning neural networks and implementing AI models.
-💞️ I’m looking to collaborate on projects related to deep learning and predictive maintenance.
+I’m looking to collaborate on projects related to deep learning and predictive maintenance.
 
 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/narayanamoorthy-p-h-921181307/)
 
